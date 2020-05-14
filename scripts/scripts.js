@@ -18,5 +18,3 @@ $(".aside-container-item>h2.dropper4").click(function(){
 
 
 });
-
-alert('does it');
